@@ -1,5 +1,5 @@
 # rate-iq-grades
-analyziz of correlation between ratings in game and GPA of students in university
+analysis of correlation between ratings in game and GPA of students in university
 
 iq is big concept related with all parts of our life, although many scientists deny the possibility of assessing life successes in a standardized form for everyone, iq as the most researched concept in psychology and social engineering seems to have not only correlation but also casual relationship with our life decisions and achievements, and I look at it as very good instrument.
 
