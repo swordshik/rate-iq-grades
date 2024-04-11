@@ -19,3 +19,6 @@ since were asked only ala-too students this is not random sample
 since a lot of asked students are only freshmans, were taken only their gpa in fall semester 2023
 
 this research doesn't show casual relationship between grades and ratings, it shows only correlation between them
+
+
+main goal of this "research" is to show that casual relationship of iq with grades and ratings makes them have correlation.
